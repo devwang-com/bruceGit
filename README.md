@@ -1,2 +1,2 @@
 # bruceGit
-hello git
+hello github
